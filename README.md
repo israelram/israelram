@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=israelram" alt="israelram" /></a> </p>
 
-- 🔭 I’m currently working on [Aloja Hoteles Locales](https://aloja.com/)
+- 🔭 I’m currently working on [Fructus Via](https://fructusvia.com/)
 
-- 🌱 I’m currently learning **Dev Ops, Data Sience**
+- 🌱 I’m currently learning **React Query, Mantine Component**
 
 - 👯 I’m looking to collaborate on [Kao Hoteles](https://kaohoteles.com/)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Angular, Vue, Html, Css, Javascript**
+- 💬 Ask me about **Angular, React, Html, Css, Javascript**
 
 - 📫 How to reach me **contacto@isdeveloper.online**
 
